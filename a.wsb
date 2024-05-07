@@ -1,0 +1,10 @@
+<Configuration>
+  <VGpu>Enable</VGpu> <!-- Enabling virtual GPU support -->
+  <Networking>Enable</Networking> <!-- LAN access enabled -->
+  <ClipboardRedirection>Disable</ClipboardRedirection> <!-- Disabling clipboard to host -->
+  <PrinterRedirection>Disable</PrinterRedirection> <!-- Disabling printer redirection -->
+  <MemoryInMB>16384</MemoryInMB> <!-- Allocating 16 GB of RAM -->
+  <AudioInput>Disable</AudioInput> <!-- Disabling audio input -->
+  <AudioOutput>Disable</AudioOutput> <!-- Disabling audio output -->
+  <VideoInput>Disable</VideoInput> <!-- Disabling video input -->
+</Configuration>
