@@ -1,3 +1,12 @@
+
+
+![Screenshot 2024-05-07 154624](https://github.com/ChessLogical/wsb/assets/169053333/4f0fe690-9259-43d0-b0b4-5f4019794e31)
+
+
+
+
+
+
 Windows Sandbox is a lightweight desktop environment where you can run applications in isolation from your main system. It's a useful feature for safely running untrusted applications without risking your main system's health. This feature is available in Windows 10 Pro and Windows 11 Pro versions. Here’s how to secure the Windows Sandbox by creating a configuration file (with a .wsb extension) and running it:
 
 Step-by-Step Guide to Securing Windows Sandbox:
